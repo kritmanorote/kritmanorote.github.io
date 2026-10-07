@@ -1,6 +1,1 @@
-# app-ads.txt for apps published by kritmanorote
-#
-# Once the AdMob account exists, replace the line below with the one AdMob shows
-# under Apps > View all apps > app-ads.txt — it has this shape:
-#
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-6107710187500645, DIRECT, f08c47fec0942fa0
