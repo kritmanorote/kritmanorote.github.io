@@ -44,3 +44,7 @@ p, li { margin: 0.4em 0; }
 .app strong { display: block; font-size: 1.1rem; }
 hr { border: none; border-top: 1px solid var(--line); margin: 48px 0; }
 footer { margin-top: 48px; }
+.store {
+  display: inline-block; padding: 10px 20px; border-radius: 12px;
+  background: var(--text); color: var(--bg); text-decoration: none; font-weight: 600;
+}
