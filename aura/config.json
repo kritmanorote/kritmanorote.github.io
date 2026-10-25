@@ -1,0 +1,13 @@
+{
+  "_note": "Aura's remote settings, read by the app at launch (Remote.swift). Every field is optional; a missing one keeps the app's built-in default.",
+  "freeDays": 2,
+  "bannerAds": true,
+  "appOpenAds": true,
+  "appOpenAfterLaunches": 3,
+  "appOpenGapHours": 4,
+  "premiumOnLockedCard": true,
+  "reviewAfterDays": 3,
+  "lunarYears": [],
+  "chineseNewYear": [],
+  "specialDays": []
+}
