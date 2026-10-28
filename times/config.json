@@ -1,0 +1,14 @@
+{
+  "_note": "Times Tables' remote settings, read by the app at launch and on return (Remote.swift). Every field is optional; a missing one keeps the app's built-in default.",
+  "bannerAds": true,
+  "interstitialAds": true,
+  "interstitialAfterRounds": 3,
+  "interstitialEvery": 2,
+  "interstitialGapSeconds": 60,
+  "appOpenAds": true,
+  "appOpenAfterLaunches": 3,
+  "appOpenGapHours": 4,
+  "streakSave": true,
+  "reviewAfterDays": 3,
+  "reviewAfterRounds": 10
+}
